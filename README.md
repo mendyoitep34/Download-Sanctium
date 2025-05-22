@@ -1,4 +1,4 @@
-# 🕯️ Sanctium
+# Download Sanctium
 
 **Sanctium** is a dark, narrative-driven indie game set in a decaying world of forgotten gods, ancient relics, and spiritual unrest. Players journey through haunting ruins, solve cryptic puzzles, and uncover hidden truths in a beautifully surreal atmosphere.
 
