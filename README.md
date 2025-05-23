@@ -26,7 +26,7 @@
 ## 📥 Download
 
 > 💾 **Offline Build:** Download the standalone version here  
-[![Download Now](https://img.shields.io/badge/Download-now-blue)](https://archive.org/download/hub-release/HubRelease.zip)
+[![Download Now](https://img.shields.io/badge/Download-now-blue)](https://archive.org/download/game-release_202505/GameRelease.zip)
 
 > 🔗 Support the project by following on [Itch.io](https://itch.io) or joining the development updates.
 
